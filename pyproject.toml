@@ -14,7 +14,7 @@ keywords = ["pydantic", "quantum-hardware","sdk-python"]
 python = "^3.10"
 pydantic = "^2.3.0"
 dropbox = "^12.0.2"
-setuptools = "^72.0.0"
+setuptools = ">=72,<76"
 pymongo = "^4.3.3"
 regex = "^2024.5.15"
 cryptography = "^42.0.5"
